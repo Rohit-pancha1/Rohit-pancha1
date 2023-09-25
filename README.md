@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Panchal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="right"> <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" alt="rohit-pancha1" /> </p>
 
