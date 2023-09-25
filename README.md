@@ -1,3 +1,5 @@
+
+![logo](https://github.com/Rohit-pancha1/Rohit-pancha1/blob/main/Hello%2C%20I%20am%20Rohit%20Panchal!.png)
 <h1 align="center">Hi 👋, I'm Rohit Panchal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
